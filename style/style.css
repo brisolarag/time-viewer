@@ -8,6 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: antiquewhite;
     height: 100vh;
     width: 100vw;
 }
@@ -15,7 +16,7 @@
 .wrapper {
     width: 60vmin;
     height: 80vmin;
-    background-color: red;
+    background-color: white;
     display: grid;
     grid-template-rows: 30% 70%;
 }
